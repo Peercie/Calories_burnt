@@ -1,4 +1,4 @@
-# Calories_burnt ProDuction
+# Calories_burnt
 "for (int i = 1; i < 6; i++)
             {
                 minutes += 10;
